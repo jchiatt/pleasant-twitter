@@ -1,6 +1,6 @@
-# Twitter Mute Words [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Pleasant Twitter
 
-> Inspiration for words to mute on Twitter
+> Inspiration for words to mute on Twitter. Forked from [sindresorhus/twitter-mute-words](https://github.com/sindresorhus/twitter-mute-words), but more balanced to tell both the left AND the right to get out of your feed.
 
 Twitter supports [muting tweets](https://twitter.com/settings/muted_keywords) with specific words from your timeline.
 
@@ -14,20 +14,29 @@ Contributions welcome, but it should be generally useful and not offensive. The 
 ```
 #alternativefact
 #alternativefacts
+#BlackLivesMatter
+#LockHerUp
+#HillaryForPrison
+#NeverAgain
+#Resist
 @realdonaldtrump
+antifa
 attorney general
 bomb
 bombs
 brexit
 climate change
+clinton
 comey
 congress
+conservative
 conspiracy
 constitutional
 conway
 corbyn
 court order
 david duke
+democrat
 detention
 diplomat
 diplomatic
@@ -39,17 +48,25 @@ feminism
 feminist
 government
 governments
+gun reform
+gun control
 handcuffs
 hate
+hate speech
 hatred
 immigration
 inauguration
 isis
 ivanka
 legislation
+lgbt
+lgbtq
+liberal
 nazi
 nazis
+NRA
 obama
+offended
 parliament
 pentagon
 political
@@ -68,11 +85,13 @@ religion
 religious
 republican
 republicans
+russia
 sean spicer
 senate
 senator
 senators
 sjw
+snowflake
 steve bannon
 supreme court
 supremacy
@@ -81,7 +100,10 @@ tax dollars
 taxes
 terrorist
 terrorists
+trans
+transgender
 trump
+violence
 war
 white house
 ```
@@ -91,6 +113,7 @@ white house
 
 ```
 boxing
+crossfit
 football
 golf
 hockey
